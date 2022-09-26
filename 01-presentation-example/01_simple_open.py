@@ -1,6 +1,6 @@
 
 
-filename = r'data\WMT_US.csv'
+filename = r'work\data\WMT_US.csv'
 
 f = open(filename, 'r')
 
